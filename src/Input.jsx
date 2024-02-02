@@ -1,13 +1,3 @@
-// import './style.css'
-
-// function Input() {
-//   return (
-//     <input value="Input text..."></input>
-//   )
-// }
-
-// export default Input
-
 import './style.css'
 import React, { Component } from "react"; 
   
