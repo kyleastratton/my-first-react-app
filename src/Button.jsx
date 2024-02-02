@@ -2,7 +2,7 @@ import './style.css'
 
 function Button() {
   return (
-    <button className="primary-button">Click me</button>
+    <button className="primary-button">Generate</button>
   )
 }
 
