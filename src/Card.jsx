@@ -1,4 +1,3 @@
-import './style.css'
 import React, { Component } from "react"; 
 import Input from './Input.jsx'
 import Button from './Button.jsx'

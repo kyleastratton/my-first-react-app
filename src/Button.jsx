@@ -1,9 +1,18 @@
-import './style.css'
+// import './style.css'
+import React, { Component } from "react"; 
 
-function Button() {
-  return (
-    <button className="primary-button">Generate</button>
-  )
-}
+class Button extends React.Component { 
+  constructor() { 
+      super(); 
+      this.state = { 
+      }; 
+  }
 
-export default Button
+  render() { 
+      return ( 
+        <button className="primary-button">Generate</button>
+      ) 
+  } 
+} 
+
+export default Button; 

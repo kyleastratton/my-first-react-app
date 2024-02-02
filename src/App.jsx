@@ -1,4 +1,3 @@
-import './style.css'
 import React, { Component } from "react"; 
 import Card from './Card.jsx'
   
