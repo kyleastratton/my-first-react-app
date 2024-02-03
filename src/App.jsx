@@ -19,7 +19,7 @@ class App extends React.Component {
     render() { 
       const name = {headingText: "Name", inputText: this.state.nameInput};
       const address = {headingText: "Address", inputText: this.state.addressInput};
-      const mobile = {headingText: "Mobile Number", inputText: this.state.mobileInut};
+      const mobile = {headingText: "Mobile Number", inputText: this.state.mobileInput};
       const bank = {headingText: "Bank", inputText: this.state.bankInput};
       const sortcode = {headingText: "Sort Code", inputText: this.state.sortCodeInput};
       const accountnumber = {headingText: "Acount Number", inputText: this.state.accountNumberInput};
