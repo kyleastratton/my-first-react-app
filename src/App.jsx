@@ -6,7 +6,7 @@ class App extends React.Component {
         super(); 
         this.state = { 
           nameInput: "John Doe",
-          addressInput: "123 Main Street",
+          addressInput: "123 Main Street, Anytown, TE5T 1NG",
           mobileInput: "07912345678",
           bankInput: "Example Bank",
           sortCodeInput: "10-20-30",
